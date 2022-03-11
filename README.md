@@ -1,5 +1,7 @@
 # mouse
 
+一些授权公开配布的自用鼠标指针
+
 The mouse I usually use.
 
 All rights reserved by the artist.
